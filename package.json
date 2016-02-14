@@ -1,0 +1,33 @@
+{
+  "name": "sugarlisp-htmlreader",
+  "description": "read html as sugarlisp (tag...) expressions",
+  "keywords": [
+    "html",
+    "javascript",
+    "language",
+    "sugarlisp",
+    "sugarscript",
+    "compiler",
+    "lisp"
+  ],
+  "author": "Darren Cruse",
+  "version": "0.6.0",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/darrencruse/sugarlisp-htmlreader/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "homepage": "https://github.com/darrencruse/sugarlisp-htmlreader",
+  "bugs": "https://github.com/darrencruse/sugarlisp-htmlreader/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/darrencruse/sugarlisp-htmlreader.git"
+  }
+}
